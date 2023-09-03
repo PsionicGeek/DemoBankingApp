@@ -1,4 +1,6 @@
-# DemoBankingApp
+# Easy-Way Bank
+
+![Demo Banking App](https://github.com/PsionicGeek/DemoBankingApp/blob/master/src/main/resources/static/images/68shots_so.png)
 
 This is an online demo banking app built using Spring Boot and JSP.
 
